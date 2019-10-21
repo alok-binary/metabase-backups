@@ -1,0 +1,142 @@
+archived,can_write,color,description,effective_ancestors,effective_location,id,location,name,parent_id,personal_owner_id,slug
+,True,,,[],,root,,Our analytics,,,
+0.0,True,#509EE3,MFSA requires Monthly or Quarterly data having values provided by this dashboard ,,,75,/, CFD Data Gathering Report (MF) - 2018,,,_cfd_data_gathering_report__mf____2018
+0.0,True,#FF0000,none,,,188,/95/160/,-- Japan,,,___japan
+0.0,True,#FF0000,none,,,169,/95/159/,-- Japan,,,___japan
+0.0,True,#F1B556,Automatically generated cards.,,,3,/75/2/,A look at your Client table,,,a_look_at_your_client_table
+0.0,True,#FF0000,none,,,181,/95/160/,Accounting,,,accounting
+0.0,True,#FF0000,none,,,162,/95/159/,Accounting,,,accounting
+0.0,True,#509EE3,,,,93,/,Accounts Reports,,,accounts_reports
+0.0,True,#31698A,,,,54,/,Aggelos Armenatzoglou's Personal Collection,,47.0,aggelos_armenatzoglou_s_personal_collection
+0.0,True,#31698A,,,,215,/,Aiden Grech's Personal Collection,,80.0,aiden_grech_s_personal_collection
+0.0,True,#509EE3,,,,95,/,All Snippets from JackDB,,,all_snippets_from_jackdb
+0.0,True,#31698A,,,,36,/,Alok Tiwari's Personal Collection,,37.0,alok_tiwari_s_personal_collection
+0.0,True,#31698A,,,,81,/,Amin Marashi's Personal Collection,,58.0,amin_marashi_s_personal_collection
+0.0,True,#31698A,,,,91,/,Amin Roosta's Personal Collection,,66.0,amin_roosta_s_personal_collection
+0.0,True,#31698A,,,,219,/,Analise Powney's Personal Collection,,84.0,analise_powney_s_personal_collection
+0.0,True,#509EE3,,,,80,/61/,Andrey Collection,,,andrey_collection
+0.0,True,#31698A,,,,8,/,Andrey Khamidullin's Personal Collection,,8.0,andrey_khamidullin_s_personal_collection
+0.0,True,#31698A,,,,96,/,Anthony Wong's Personal Collection,,67.0,anthony_wong_s_personal_collection
+0.0,True,#31698A,,,,4,/,Anton Andreev's Personal Collection,,9.0,anton_andreev_s_personal_collection
+0.0,True,#31698A,,,,97,/,Aref Razavi's Personal Collection,,68.0,aref_razavi_s_personal_collection
+0.0,True,#31698A,,,,10,/,Arun Venkataraman's Personal Collection,,7.0,arun_venkataraman_s_personal_collection
+0.0,True,#31698A,,,,13,/,Ashkan Nemati's Personal Collection,,11.0,ashkan_nemati_s_personal_collection
+0.0,True,#FF0000,none,,,172,/95/159/,Audit,,,audit
+0.0,True,#FF0000,none,,,191,/95/160/,Audit,,,audit
+0.0,True,#509EE3,,,,2,/75/,Automatically Generated Dashboards,,,automatically_generated_dashboards
+0.0,True,#31698A,,,,42,/,Bill MacArthur's Personal Collection,,43.0,bill_macarthur_s_personal_collection
+0.0,True,#31698A,,,,37,/,Bruce Lee Zhen Yong's Personal Collection,,38.0,bruce_lee_zhen_yong_s_personal_collection
+0.0,True,#509EE3,,,,79,/,CFD Data Gathering Report(MF) - 2019,,,cfd_data_gathering_report_mf____2019
+0.0,True,#FF0000,none,,,173,/95/159/,Chris,,,chris
+0.0,True,#FF0000,none,,,192,/95/160/,Chris,,,chris
+0.0,True,#31698A,,,,78,/,Chris Shirley's Personal Collection,,56.0,chris_shirley_s_personal_collection
+0.0,True,#31698A,,,,74,/,Chris Tan's Personal Collection,,54.0,chris_tan_s_personal_collection
+0.0,True,#FF0000,none,,,178,/95/159/,Client Management,,,client_management
+0.0,True,#FF0000,none,,,197,/95/160/,Client Management,,,client_management
+0.0,True,#FF0000,none,,,179,/95/159/,Client_Management,,,client_management
+0.0,True,#FF0000,none,,,198,/95/160/,Client_Management,,,client_management
+0.0,True,#FF0000,none,,,189,/95/160/,Compliance,,,compliance
+0.0,True,#FF0000,none,,,170,/95/159/,Compliance,,,compliance
+0.0,True,#FF0000,none,,,199,/95/160/181/,Compliance,,,compliance
+0.0,True,#FF0000,none,,,204,/95/160/189/,Compliance,,,compliance
+0.0,True,#509EE3,,,,92,/,Compliance Reports,,,compliance_reports
+0.0,True,#FF0000,none,,,185,/95/160/,CR,,,cr
+0.0,True,#FF0000,none,,,166,/95/159/,CR,,,cr
+0.0,True,#509EE3,,,,83,/36/,CR,,,cr
+0.0,True,#31698A,,,,77,/,Craig Lawrence's Personal Collection,,57.0,craig_lawrence_s_personal_collection
+0.0,True,#FF0000,none,,,167,/95/159/,CS,,,cs
+0.0,True,#FF0000,none,,,186,/95/160/,CS,,,cs
+0.0,True,#509EE3,,,,94,/,CS Reports,,,cs_reports
+0.0,True,#509EE3,,,,57,/36/,Daily Report,,,daily_report
+0.0,True,#31698A,,,,76,/,Denis makagonov's Personal Collection,,55.0,denis_makagonov_s_personal_collection
+0.0,True,#31698A,,,,9,/,Derek Swift's Personal Collection,,4.0,derek_swift_s_personal_collection
+0.0,True,#31698A,,,,55,/,Dmitry Sirotkin's Personal Collection,,48.0,dmitry_sirotkin_s_personal_collection
+0.0,True,#31698A,,,,73,/,Dwi Hadyan's Personal Collection,,53.0,dwi_hadyan_s_personal_collection
+0.0,True,#31698A,,,,39,/,Eric Lopes's Personal Collection,,40.0,eric_lopes_s_personal_collection
+0.0,True,#31698A,,,,35,/,Eyad Arnabeh's Personal Collection,,36.0,eyad_arnabeh_s_personal_collection
+0.0,True,#31698A,,,,98,/,Francesca Grech's Personal Collection,,69.0,francesca_grech_s_personal_collection
+0.0,True,#31698A,,,,11,/,Gary Vytialingam's Personal Collection,,10.0,gary_vytialingam_s_personal_collection
+0.0,True,#509EE3,"This collection groups dashboards for index pages that redirects to other dashboards
+",,,64,/39/,index,,,index
+0.0,True,#FF0000,none,,,184,/95/160/,Internal Audit,,,internal_audit
+0.0,True,#FF0000,none,,,165,/95/159/,Internal Audit,,,internal_audit
+0.0,True,#31698A,,,,217,/,jack Wong's Personal Collection,,82.0,jack_wong_s_personal_collection
+0.0,True,#31698A,,,,207,/,Jack Wong's Personal Collection,,72.0,jack_wong_s_personal_collection
+0.0,True,#FF0000,none,,,171,/95/159/,Japan,,,japan
+0.0,True,#FF0000,none,,,190,/95/160/,Japan,,,japan
+0.0,True,#31698A,,,,216,/,JB Kok's Personal Collection,,81.0,jb_kok_s_personal_collection
+0.0,True,#31698A,,,,86,/,Jeyavarthini Vairakanan's Personal Collection,,63.0,jeyavarthini_vairakanan_s_personal_collection
+0.0,True,#31698A,,,,7,/,Joanna Frendo's Personal Collection,,5.0,joanna_frendo_s_personal_collection
+0.0,True,#31698A,,,,40,/,Joe Chang's Personal Collection,,41.0,joe_chang_s_personal_collection
+0.0,True,#31698A,,,,211,/,Jubaer Jabin's Personal Collection,,76.0,jubaer_jabin_s_personal_collection
+0.0,True,#31698A,,,,12,/,Karen Yap's Personal Collection,,3.0,karen_yap_s_personal_collection
+0.0,True,#31698A,,,,209,/,Kimia Azimzadeh's Personal Collection,,74.0,kimia_azimzadeh_s_personal_collection
+0.0,True,#31698A,,,,218,/,Leandro Nicolucci's Personal Collection,,83.0,leandro_nicolucci_s_personal_collection
+0.0,True,#31698A,,,,90,/,Mahboobeh Mohammadi's Personal Collection,,64.0,mahboobeh_mohammadi_s_personal_collection
+0.0,True,#FF0000,none,,,200,/95/160/183/,Maltese Financial Authorities,,,maltese_financial_authorities
+0.0,True,#FF0000,none,,,193,/95/160/,Marketing,,,marketing
+0.0,True,#FF0000,none,,,174,/95/159/,Marketing,,,marketing
+0.0,True,#509EE3,,,,49,/39/,Marketing analytics,,,marketing_analytics
+0.0,True,#FF0000,none,,,183,/95/160/,MF,,,mf
+0.0,True,#FF0000,none,,,164,/95/159/,MF,,,mf
+0.0,True,#31698A,,,,213,/,Milad Bahrami's Personal Collection,,78.0,milad_bahrami_s_personal_collection
+0.0,True,#FF0000,none,,,201,/95/160/183/,MLT,,,mlt
+0.0,True,#31698A,,,,210,/,Mostafa jannesari's Personal Collection,,75.0,mostafa_jannesari_s_personal_collection
+0.0,True,#509EE3,,,,63,/39/,mt5,,,mt5
+0.0,True,#FF0000,none,,,175,/95/159/,MT5,,,mt5
+0.0,True,#FF0000,none,,,194,/95/160/,MT5,,,mt5
+0.0,True,#509EE3,,,,61,/,MT5 - 2019,,,mt5___2019
+0.0,True,#509EE3,MT5 related analytics,,,59,/,MT5-2018,,,mt5_2018
+0.0,True,#509EE3,,,,70,/61/66/68/,mt5_costarica,,,mt5_costarica
+0.0,True,#509EE3,,,,69,/61/66/,mt5_demo,,,mt5_demo
+0.0,True,#509EE3,,,,67,/61/66/,mt5_financial,,,mt5_financial
+0.0,True,#509EE3,,,,71,/61/66/68/,mt5_malta,,,mt5_malta
+0.0,True,#509EE3,,,,68,/61/66/,mt5_non_financial,,,mt5_non_financial
+0.0,True,#509EE3,This is a fork of the mt5 collections to organize only questions ready for production,,,66,/61/,mt5_production,,,mt5_production
+0.0,True,#509EE3,,,,72,/61/66/67/,mt5_vanuatu_standard,,,mt5_vanuatu_standard
+0.0,True,#31698A,,,,88,/,Mustofa Ghaleb Amami's Personal Collection,,65.0,mustofa_ghaleb_amami_s_personal_collection
+0.0,True,#31698A,,,,52,/,Najibul Huq's Personal Collection,,46.0,najibul_huq_s_personal_collection
+0.0,True,#31698A,,,,212,/,Navid Farazi's Personal Collection,,77.0,navid_farazi_s_personal_collection
+0.0,True,#31698A,,,,89,/,Nazeema Ali's Personal Collection,,61.0,nazeema_ali_s_personal_collection
+0.0,True,#509EE3,Statistics that are perhaps useful or interesting for the whole company,,,51,/36/,Of general interest,,,of_general_interest
+0.0,True,#31698A,,,,46,/,Olga Sidorova's Personal Collection,,45.0,olga_sidorova_s_personal_collection
+0.0,True,#31698A,,,,85,/,Omar al-Sabek's Personal Collection,,62.0,omar_al_sabek_s_personal_collection
+0.0,True,#31698A,,,,65,/,Parviz asoodefard's Personal Collection,,52.0,parviz_asoodefard_s_personal_collection
+0.0,True,#31698A,,,,62,/,Parviz Asoodefard's Personal Collection,,51.0,parviz_asoodefard_s_personal_collection
+0.0,True,#509EE3,ALL jackdb snippets; re-imported,,,160,/95/,presorted,,,presorted
+0.0,True,#FF0000,none,,,202,/95/160/186/,Profit,,,profit
+0.0,True,#FF0000,none,,,177,/95/159/,Quants,,,quants
+0.0,True,#FF0000,none,,,196,/95/160/,Quants,,,quants
+0.0,True,#509EE3,,,,50,/39/,Quants analytics,,,quants_analytics
+0.0,True,#31698A,,,,38,/,Rakshit Choudhary's Personal Collection,,39.0,rakshit_choudhary_s_personal_collection
+0.0,True,#31698A,,,,6,/,Rakshit Choudhary's Personal Collection,,2.0,rakshit_choudhary_s_personal_collection
+0.0,True,#31698A,,,,84,/,Raunak Kathuria's Personal Collection,,59.0,raunak_kathuria_s_personal_collection
+0.0,True,#31698A,,,,53,/,Ravi Guglani's Personal Collection,,49.0,ravi_guglani_s_personal_collection
+0.0,True,#31698A,,,,220,/,Reyhaneh Reyhani's Personal Collection,,85.0,reyhaneh_reyhani_s_personal_collection
+0.0,True,#31698A,,,,15,/,Ridho Mardiansyah's Personal Collection,,13.0,ridho_mardiansyah_s_personal_collection
+0.0,True,#31698A,,,,60,/,Ronak Sunil Shah's Personal Collection,,50.0,ronak_sunil_shah_s_personal_collection
+0.0,True,#31698A,,,,33,/,Rustem Kakimov's Personal Collection,,33.0,rustem_kakimov_s_personal_collection
+0.0,True,#509EE3,This collection contains samples and proofs of concept.,,,221,/,Samples and Proofs of concept,,,samples_and_proofs_of_concept
+0.0,True,#31698A,,,,206,/,Sarah Dickman's Personal Collection,,71.0,sarah_dickman_s_personal_collection
+0.0,True,#31698A,,,,205,/,Stanly Tan's Personal Collection,,70.0,stanly_tan_s_personal_collection
+0.0,True,#FF0000,none,,,195,/95/160/,Statistic,,,statistic
+0.0,True,#FF0000,none,,,176,/95/159/,Statistic,,,statistic
+0.0,True,#FF0000,none,,,161,/95/159/,Statistics,,,statistics
+0.0,True,#FF0000,none,,,180,/95/160/,Statistics,,,statistics
+0.0,True,#31698A,,,,87,/,Tanya Sahni's Personal Collection,,60.0,tanya_sahni_s_personal_collection
+0.0,True,#FF0000,none,,,168,/95/159/,temp Compliance,,,temp_compliance
+0.0,True,#FF0000,none,,,187,/95/160/,temp Compliance,,,temp_compliance
+0.0,True,#FF0000,,,,100,/36/,test,,,test
+0.0,True,#FF0000,none,,,101,/36/100/,test,,,test
+0.0,True,#509EE3,,,,58,/39/,tests,,,tests
+0.0,True,#31698A,,,,1,/,Tom M's Personal Collection,,1.0,tom_m_s_personal_collection
+0.0,True,#31698A,,,,41,/,Tony Cini's Personal Collection,,42.0,tony_cini_s_personal_collection
+0.0,True,#31698A,,,,34,/,Torsten Foertsch's Personal Collection,,35.0,torsten_foertsch_s_personal_collection
+0.0,True,#FF0000,none,,,163,/95/159/,Transaction,,,transaction
+0.0,True,#FF0000,none,,,182,/95/160/,Transaction,,,transaction
+0.0,True,#FF0000,none,,,203,/95/160/189/,UKGC,,,ukgc
+0.0,True,#31698A,,,,5,/,Waqas Awas's Personal Collection,,6.0,waqas_awas_s_personal_collection
+0.0,True,#31698A,,,,214,/,Waziha Raquib's Personal Collection,,79.0,waziha_raquib_s_personal_collection
+0.0,True,#31698A,,,,43,/,Wei Sheng Tan's Personal Collection,,44.0,wei_sheng_tan_s_personal_collection
+0.0,True,#31698A,,,,208,/,Yiwei Moses Ang's Personal Collection,,73.0,yiwei_moses_ang_s_personal_collection
+0.0,True,#31698A,,,,14,/,Yng Shan Tan's Personal Collection,,12.0,yng_shan_tan_s_personal_collection
